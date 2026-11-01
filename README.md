@@ -18,6 +18,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 # DIAGRAMS:
 # USECASE DIAGRAM
 
+<img width="1237" height="1065" alt="image" src="https://github.com/user-attachments/assets/55f01411-aec1-4d3e-bf72-e7f5b992c55f" />
 
 
 # CLASS DIAGRAM
@@ -35,6 +36,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 # PACKAGE DIAGRAM
 
+<img width="1217" height="1032" alt="image" src="https://github.com/user-attachments/assets/9e04c11b-4488-4068-92e0-fcb0bf82b320" />
 
 # SEQUENCE DIAGRAM
 
