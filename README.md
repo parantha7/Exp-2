@@ -1,10 +1,45 @@
+## NAME : PARANTHAMAN S
+## REG.NO: 212224040232 
+
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
+To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 
 # SRS (Procedure):
+1.The Library Management System automates book and member management, issuing, and returns. 
+
+2.It ensures secure, reliable, and efficient record handling. 
+
+3.The SRS defines system functions, requirements, and user roles.
+
+4.It includes six UML diagrams — UseCase, Class, Activity, Communication, package and sequence diagrams.
 
 # DIAGRAMS:
-(upload all 6 diagrams)
+# USECASE DIAGRAM
+
+
+
+# CLASS DIAGRAM
+
+
+
+# ACTIVITY DIAGRAM
+
+<img width="1242" height="1072" alt="image" src="https://github.com/user-attachments/assets/92808b8e-0ed0-476e-9a5d-48ba9413c925" />
+
+
+# COMMUNICATION DIAGRAM
+
+
+
+# PACKAGE DIAGRAM
+
+
+# SEQUENCE DIAGRAM
+
+
+
 
 # RESULT:
+Thus, the study of the problem statement and preparation of the SRS document were completed successfully, and all the required UML diagrams were drawn and analyzed.
