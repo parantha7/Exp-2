@@ -23,6 +23,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 # CLASS DIAGRAM
 
+<img width="1218" height="1042" alt="image" src="https://github.com/user-attachments/assets/747d7c89-d31a-4b36-a68d-7df9afc40b61" />
 
 
 # ACTIVITY DIAGRAM
@@ -31,6 +32,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 
 # COMMUNICATION DIAGRAM
+<img width="1217" height="1018" alt="image" src="https://github.com/user-attachments/assets/915809d8-9274-40d0-90dc-8f56357593ce" />
 
 
 
