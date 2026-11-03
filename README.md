@@ -41,6 +41,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 <img width="1217" height="1032" alt="image" src="https://github.com/user-attachments/assets/9e04c11b-4488-4068-92e0-fcb0bf82b320" />
 
 # SEQUENCE DIAGRAM
+<img width="1153" height="1036" alt="image" src="https://github.com/user-attachments/assets/689bc687-3272-4032-8e04-903191c84783" />
 
 
 
